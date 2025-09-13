@@ -1,0 +1,26 @@
+
+.image-crop-top {
+    object-position: top;
+    object-fit: cover;
+}
+.hero-text-container {
+    padding-right: 3rem;
+}
+
+@media (min-width: 768px) {
+    .hero-text-container {
+        padding-right: 5rem;
+    }
+}
+
+.nav-name {
+    text-align: left;
+    margin-left: 0;
+    padding-left: 1.5rem;
+}
+
+.nav-links {
+    margin-right: 0;
+    padding-right: 1.5rem;
+}
+
